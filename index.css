@@ -63,6 +63,41 @@ body {
     align-items: center;
     padding: 3px;
 }
+.key-metrics{
+    display: flex;
+    margin-left: 10px;
+    margin-top: 10px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    position: absolute;
+}
+.key-metric1{
+    background: black;
+    padding: 10px;
+    border-radius: 10px;
+    margin: 10px;
+    color: white;
+    align-items: center;
+    font-size: larger;
+    box-shadow: 2px 2px 2px 2px rgb(110, 32, 32);
+}
+.key-metric1:hover{
+    cursor: pointer;
+    transform: scale(1.01);
+}
+.key-metric2{
+    background: black;
+    padding: 10px;
+    border-radius: 10px;
+    margin: 10px;
+    color: white;
+    align-items: center;
+    font-size: larger;
+    box-shadow: 2px 2px 2px 2px rgb(110, 32, 32);
+}
+.key-metric2:hover{
+    cursor: pointer;
+    transform: scale(1.01);
+}
 #left img{
     position: absolute;
     top:15px;
