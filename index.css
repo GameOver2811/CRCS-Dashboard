@@ -29,14 +29,11 @@ body {
     margin-left: 20px;
     display: inline-block;
     -webkit-user-select: none;
-
 }
 .emb-img{
     display: inline-block;
     -webkit-user-select: none;
-
 }
-
 .top-tag-1{
     position: absolute;
     left:100px;
@@ -65,7 +62,6 @@ body {
     justify-content: space-between;
     align-items: center;
     padding: 3px;
-
 }
 #left img{
     position: absolute;
@@ -76,7 +72,6 @@ body {
     border-radius: 50%;
     padding-left: 5px;
     -webkit-user-select: none;
-
 }
 #left img:hover{
     cursor: pointer;
@@ -93,7 +88,6 @@ body {
     font-weight: bold;
     -webkit-user-select: none;
 }
-
 .mid ul li a:hover{
     color:red;
 }
@@ -110,14 +104,12 @@ body {
     width: 40px;
     height: 40px;
     right:0px;
-    transition: all 250ms;
-    
+    transition: all 250ms;   
 }
 #right img:hover{
     transform: scale(1.11);
     cursor: pointer;
 }
-
 .sub-menu-wrap{
     position: relative;
     top: 0px;
@@ -128,9 +120,7 @@ body {
     transition: max-height 0.5s;
     opacity: 1;
 }
-
-.sub-menu{
-    
+.sub-menu{   
     background: white;
     padding: 20px;
     margin: 10px;
